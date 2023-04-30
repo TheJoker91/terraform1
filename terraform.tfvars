@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-03c7d01cf4dedc891"
+keypair       = "aws-demo"
+instance-type = "t2.nano"
+name          = "dev-server"
